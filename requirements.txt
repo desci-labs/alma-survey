@@ -1,0 +1,2 @@
+astropy==5.2.1
+matplotlib==3.7.1
